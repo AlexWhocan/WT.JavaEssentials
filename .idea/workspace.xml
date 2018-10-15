@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4a0a123-74ef-44ba-bb37-577884691060" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="220931120">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="java" value="3176" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3176" />
+          <entry key="PLAIN_TEXT" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-929482877">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="92" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="92" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.open" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="epam-vt-lab1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/util/MapDataWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/util/TanFucntionSolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task3/util/TanFucntionSolverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task4/util/NumberMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task4/util/NumberMethodsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task4/util/SimpleNumberEnumerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task4/util/SimpleNumberEnumeratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/runner/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/DataScanner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/by/bsiur/alshevski/Task1/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task1/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task1/util/Calculator.java" />
+        <option value="$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task1/util/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task2/util/FIgure.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task2/util/Figure.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task2/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task2/util/FigureTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/Util/TanFucntionSOlver.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/Util/MapDataWriter.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/Util/TanFucntionSolver.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/Runner/Runner.java" />
+        <option value="$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task3/Util/TanFucntionSolverTest.java" />
+        <option value="$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task3/util/TanFucntionSolverTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task4/util/SimpleNumberFinder.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task4/util/SimpleNumberEnumerator.java" />
+        <option value="$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task4/util/NumberMethodsTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task4/util/NumberMethods.java" />
+        <option value="$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task4/util/SimpleNumberEnumeratorTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/util/TanFucntionSolver.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/alshevski/DataScanner.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="954" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="JUnitTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="JUnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="JUnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="JUnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="JUnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="JUnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task1" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task2" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task3" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task3" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="epam-vt-lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="epam-vt-lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="bsuir" type="462c0819:PsiDirectoryNode" />
+              <item name="alshevski" type="462c0819:PsiDirectoryNode" />
+              <item name="Task4" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539613572908" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.alshevski.Task4.util" />
+      <recent name="by.bsuir.alshevski.Task3.Util" />
+      <recent name="by.bsuir.alshevski.Task2.util" />
+      <recent name="by.bsuir.alshevski.Task1.util" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.alshevski.Task3.runner.Runner" />
+      <module name="epam-vt-lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.alshevski.Task3.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in epam-vt-lab1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="epam-vt-lab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberMethodsTest.isSimple_3_True" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="epam-vt-lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.alshevski.Task4.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.alshevski.Task4.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.alshevski.Task4.util.NumberMethodsTest" />
+      <option name="METHOD_NAME" value="isSimple_3_True" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberMethodsTest.isSimple_4_False" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="epam-vt-lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.alshevski.Task4.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.alshevski.Task4.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.alshevski.Task4.util.NumberMethodsTest" />
+      <option name="METHOD_NAME" value="isSimple_4_False" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleNumberEnumeratorTest.countSimple_3_of_10_on_1st_2nd_5rd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="epam-vt-lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.alshevski.Task4.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.alshevski.Task4.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.alshevski.Task4.util.SimpleNumberEnumeratorTest" />
+      <option name="METHOD_NAME" value="countSimple_3_of_10_on_1st_2nd_5rd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.NumberMethodsTest.isSimple_3_True" />
+      <item itemvalue="JUnit.NumberMethodsTest.isSimple_4_False" />
+      <item itemvalue="JUnit.SimpleNumberEnumeratorTest.countSimple_3_of_10_on_1st_2nd_5rd" />
+      <item itemvalue="JUnit.All in epam-vt-lab1" />
+      <item itemvalue="Application.Runner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="JUnit.All in epam-vt-lab1" />
+        <item itemvalue="JUnit.SimpleNumberEnumeratorTest.countSimple_3_of_10_on_1st_2nd_5rd" />
+        <item itemvalue="JUnit.NumberMethodsTest.isSimple_4_False" />
+        <item itemvalue="JUnit.NumberMethodsTest.isSimple_3_True" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4a0a123-74ef-44ba-bb37-577884691060" name="Default Changelist" comment="" />
+      <created>1539005249123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539005249123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FigureTest - 2018.10.08 at 19h 03m 21s.xml">
+      <configuration name="FigureTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TanFucntionSolverTest_getValues_0_9_StepIs1 - 2018.10.08 at 19h 29m 27s.xml">
+      <configuration name="TanFucntionSolverTest.getValues_0_9_StepIs1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TanFucntionSolverTest_getValues_0_9_StepIs1 - 2018.10.08 at 19h 31m 14s.xml">
+      <configuration name="TanFucntionSolverTest.getValues_0_9_StepIs1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberMethodsTest_isSimple_3_True - 2018.10.08 at 19h 54m 34s.xml">
+      <configuration name="NumberMethodsTest.isSimple_3_True" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberMethodsTest_isSimple_4_False - 2018.10.08 at 20h 03m 41s.xml">
+      <configuration name="NumberMethodsTest.isSimple_4_False" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleNumberEnumeratorTest_countSimple_3_of_10_on_1st_2nd_5rd - 2018.10.08 at 20h 16m 45s.xml">
+      <configuration name="SimpleNumberEnumeratorTest.countSimple_3_of_10_on_1st_2nd_5rd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_epam-vt-lab1 - 2018.10.08 at 22h 13m 46s.xml">
+      <configuration name="All in epam-vt-lab1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_epam-vt-lab1 - 2018.10.08 at 22h 14m 24s.xml">
+      <configuration name="All in epam-vt-lab1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_epam-vt-lab1 - 2018.10.08 at 22h 31m 03s.xml">
+      <configuration name="All in epam-vt-lab1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_epam-vt-lab1 - 2018.10.08 at 22h 32m 54s.xml">
+      <configuration name="All in epam-vt-lab1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50080776" side_tool="true" weight="0.20095949" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49919224" visible="true" weight="0.20095949" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32968238" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3286334" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39978093" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32968238" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/by/bsiur/alshevski/Task1/VIew.java" />
+    <entry file="file://$PROJECT_DIR$/src/CoolClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task1/util/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task1/util/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task1/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Вовка/lab1/task2/src/main/java/figure/Figure.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task2/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task2/util/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Вовка/lab1/task3/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/function/BiConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Вовка/lab1/task3/src/test/java/function/FunctionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task2/util/FigureTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/util/MapDataWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task4/util/NumberMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task4/util/NumberMethodsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task4/util/SimpleNumberEnumerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task4/util/SimpleNumberEnumeratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JUnitTest/by/bsuir/alshevski/Task3/util/TanFucntionSolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/epam-vt-lab1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/util/TanFucntionSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/Task3/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/alshevski/DataScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
